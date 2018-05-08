@@ -1,0 +1,33 @@
+.border-visible{
+    border:1px solid
+}
+.top{
+    margin-top:28px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight:500;
+    font-size:24px
+}
+.margin-0{
+    margin:0
+}
+.border-top-invisible{
+    border:none;
+}
+.border-side-invisible{
+    border-left:none;
+    border-right:none;
+}
+.prep{
+    font-size: 12px;
+    text-align: center;
+}
+.cities{
+    font-size:16px;
+    text-align: center;
+    font-weight: 500
+}
+.arrow{
+    font-size: 18px;    
+    margin-top:20px
+}
